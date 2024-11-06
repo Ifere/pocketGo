@@ -1,0 +1,1 @@
+This is a Git Repo for my reading and practice notes on the Pocket Sized Golang Book.
